@@ -37,8 +37,8 @@ This project uses a simplified version of the TMDb 5000 Movie Dataset, including
    ```
 2. Create a virtual environment:  
    ```bash
-  python -m venv venv
-  source venv/bin/activate  # For Windows: venv\Scripts\activate
+ python -m venv venv
+source venv/bin/activate 
    ```
 3. Install dependencies:  
    ```bash
