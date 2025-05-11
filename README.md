@@ -34,17 +34,14 @@ This project uses a simplified version of the TMDb 5000 Movie Dataset, including
 1. Clone this repository to your local machine:  
    ```bash
    git clone https://github.com/Gpm_Musfik/Movie-Recommender-System.git
-
    ```
 2. Create a virtual environment:  
     ```bash
-source venv/bin/activate 
-
+    source venv/bin/activate 
     ```
 3. Install dependencies:  
    ```bash
    pip install -r requirements.txt
-
    ```
 4. Run the app locally:  
    ```bash
