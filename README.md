@@ -3,20 +3,23 @@ A Content-Based Recommender System built with Python, featuring a Streamlit fron
 
 ## Project Overview
 This Movie Recommender System suggests movies based on similarity in genres, keywords, overview, cast, and crew. It utilizes natural language processing (NLP) techniques to calculate similarity scores and deliver content-based recommendations.
-✅ Streamlit Web App
-✅ Content-Based Filtering
-✅ Cosine Similarity with TF-IDF
-✅ Responsive UI
-✅ Deployed on Heroku
+<ol>
+  <li>✅ Streamlit Web App</li>
+ <li>✅ Content-Based Filtering</li>
+ <li>✅ Cosine Similarity with TF-IDF</li>
+ <li>✅ Responsive UI</li>
+ <li>✅ Deployed on Heroku</li>
 
+</ol> 
 
 ## Features
-🔎 Search for a movie and get top 5 similar recommendations
-📚 Content-based filtering using metadata (cast, crew, overview, genres)
-🧠 TF-IDF Vectorization and Cosine Similarity
-⚡ Interactive UI using Streamlit
-☁️ One-click deployment with Heroku
-
+<ol>
+  <li>🔎 Search for a movie and get top 5 similar recommendations</li>
+  <li>📚 Content-based filtering using metadata (cast, crew, overview, genres)</li>
+   <li>🧠 TF-IDF Vectorization and Cosine Similarity</li>
+  <li>⚡ Interactive UI using Streamlit</li>
+  <li>☁️ One-click deployment with Heroku</li>
+</ol> 
 
 ## Dataset
 This project uses a simplified version of the TMDb 5000 Movie Dataset, including:
