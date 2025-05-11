@@ -22,13 +22,8 @@ This Movie Recommender System suggests movies based on similarity in genres, key
 </ol> 
 
 ## Dataset
-This project uses a simplified version of the TMDb 5000 Movie Dataset, including:
+This project uses a simplified version of the [TMDb 5000 Movie](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) Dataset, including:
 
-1.Title
-2.Overview (Plot)
-3.Genres
-4.Keywords
-5.Cast & Crew (optional for enhancement)
 
 ### Installation
 1. Clone this repository to your local machine:  
